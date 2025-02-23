@@ -1,0 +1,12 @@
+.prim{
+    background-color: orange;
+    color: black;
+}
+.seg{
+    background-color: yellow;
+}
+
+.biggerFont{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
